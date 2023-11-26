@@ -20,9 +20,8 @@ The Iris dataset is a classic dataset used in machine learning and statistics. I
 
 - **Streamlit:** Used for creating the web interface and handling user input.
 - **Pandas:** For handling data and input processing.
-- **Scikit-learn:** Utilized for the pre-trained machine learning model.
-- **Pickle:** Used to serialize the trained model for deployment.
-
+- **NumPy:** Essential for efficient numerical computations and array handling.
+- **Scikit-learn:** Used for the pre-trained machine learning model.
 
 ## License
 
