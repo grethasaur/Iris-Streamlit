@@ -2,6 +2,8 @@
 
 This simple web application predicts the species of an iris flower based on its features using a pre-trained machine learning model.
 
+**App link here:** <https://iris-app-etmuptmn94pvi2usmsvb9x.streamlit.app/>
+
 ## Overview
 
 The app is built using Python and Streamlit, utilizing a machine learning model trained on the famous Iris dataset. Users interact with the app by adjusting sliders corresponding to features such as sepal length, sepal width, petal length, and petal width. The model then predicts the species of the iris flower based on these inputs.
